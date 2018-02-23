@@ -1,9 +1,4 @@
 # experiment
-
-I wanna eat some tacos!
-
-Can you give me some?
-
 <!doctype html>
 <html>
 <head>
